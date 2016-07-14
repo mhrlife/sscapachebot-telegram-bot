@@ -1,0 +1,48 @@
+object(stdClass)#1 (2) {
+  ["update_id"]=>
+  int(477199272)
+  ["chosen_inline_result"]=>
+  object(stdClass)#2 (4) {
+    ["from"]=>
+    object(stdClass)#3 (3) {
+      ["id"]=>
+      int(88178811)
+      ["first_name"]=>
+      string(14) "💀AnubiS💀"
+      ["username"]=>
+      string(7) "AnubiS7"
+    }
+    ["inline_message_id"]=>
+    string(27) "BAAAAF02DAB7gEEF0hGrRXBdtTs"
+    ["query"]=>
+    string(40) "getlist-222c026ea5dae283707c7dd36d43d835"
+    ["result_id"]=>
+    string(4) "MQ=="
+  }
+}
+array(2) {
+  [0]=>
+  bool(false)
+  [1]=>
+  bool(false)
+}
+array(2) {
+  ["Location"]=>
+  string(4) "home"
+  ["Step"]=>
+  int(1)
+}
+object(stdClass)#4 (3) {
+  ["ok"]=>
+  bool(false)
+  ["error_code"]=>
+  int(400)
+  ["description"]=>
+  string(29) "Bad Request: chat_id is empty"
+}
+array(2) {
+  ["Location"]=>
+  string(4) "home"
+  ["Step"]=>
+  string(1) "1"
+}
